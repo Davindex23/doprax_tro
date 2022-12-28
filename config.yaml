@@ -8,11 +8,11 @@ inbounds:
   protocol: trojan
   settings:
     clients:
-    - password: "yourPassword"
+    - password: 22224481
   streamSettings:
     network: ws
     wsSettings:
-      path: yourwspath
+      path: music
   sniffing:
     enabled: true
     destOverride:
